@@ -10,15 +10,30 @@ blurb:
 
 Other 50% of resale royalties will be reinvested into the Galactic Misfits brand"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Mobile application"
+    text: "Galactic Misfits NFT owners will have exclusive access to a play-to-earn mobile game."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Galactic Misfits are a shape shifting species
+from a foreign galaxy, one in which
+conformity is the native standard
+throughout. Hardwired in their culture,
+their galactic society repulses any creative
+form of expression throughout their long
+history of existence and evolution. Any
+breach of their order is strictly punished
+with life imprisonment. "
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Naturally, however, there were outliers…
+Dormant deviants worked tirelessly to
+organize a mass migration of like-minded
+constituents, creative minds in search of
+freedom. Once their escape was underway,
+these brave Misfits targeted Earth, and they
+never looked back. "
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: What are galactic misfits?
+    text: alactic Misfits are an interstellar species escaping their aboriginal galaxy to seek refuge here on Earth. This collection is their best effort to fit in...
+    170 unique, hand-drawn attributes Algorithmically assembled artwork Designed on the Cardano blockchain.
 ---
 
