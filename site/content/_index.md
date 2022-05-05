@@ -1,7 +1,7 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Galactic Misfits have traveled across the Metaverse to start a new life within the Cardano blockchain"
+subtitle: A collection of 10,000 Galactic misfits
+image: https://static.wixstatic.com/media/7025df_11f41badc949484f81d093a42a316171~mv2.jpg/v1/fill/w_1655,h_931,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7025df_11f41badc949484f81d093a42a316171~mv2.jpg
 blurb:
     heading: Community
     text: "A community wallet has been created in which:
