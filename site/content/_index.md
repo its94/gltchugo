@@ -13,7 +13,7 @@ intro:
     heading: "Mobile application"
     text: "Galactic Misfits NFT owners will have exclusive access to a play-to-earn mobile game."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: https://static.wixstatic.com/media/7025df_fac155741c3f4c5ebcb843f9e7dd7283~mv2.png/v1/fill/w_320,h_320,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Black%20copy.png
       text: "Galactic Misfits are a shape shifting species
 from a foreign galaxy, one in which
 conformity is the native standard
@@ -23,7 +23,7 @@ form of expression throughout their long
 history of existence and evolution. Any
 breach of their order is strictly punished
 with life imprisonment. "
-    - image: /img/illustrations-coffee-gear.svg
+    - image: https://static.wixstatic.com/media/7025df_bf965a1436134da49b66b5a55ac61c9a~mv2.png/v1/fill/w_300,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Yeezy%20copy.png
       text: "Naturally, however, there were outliers…
 Dormant deviants worked tirelessly to
 organize a mass migration of like-minded
